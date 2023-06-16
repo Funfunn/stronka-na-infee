@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> strona na 6 bo nie mam pomysłu na tytuł i nie jest on ważny</title>
+<meta charset+"UTF-8">
+<style>
+table, th, td {
+border: 1px solid black;
+}
+th, td {
+padding: 4px;
+}
+th {
+text-align: left;
+}
+</style>
+</head>
+<body>
+<h1 style="background-color:light blue; text-align:center;"><center>Witam na mojej stronie!!</center><h1>
+<p style="color:red; text-align:center;">Szczerze... nie wiem co umieścić na tej stronie, więc będę pisać o tym, co mi pierwsze
+ przychodzi na myśl. :P</p><br>
+<p style="text-align:center;"> Umm... na początek może powiem o tym, że po obejrzeniu X ilości filmików na YT miałam ambitny plan na tę stronę, ale... okazał się być zbyt ambitny. W związku z tym trzeba było lekko plan zmienić. (tak tylko wspomnę, że robie to o 2 w nocy i tekst, który się tu znajduje prawdopodobnie będzie totalnie wyrwany z kontekstu :P )
+Zwięźle mówiąc problemem poprzedniego planu były przyciski, które same w sobie robić potrafie, ale nie potrafie sprawić żeby one działały, 
+więc jeżeli jakieś tu wstawie to na marne pójdzie ich klikanie [ale spróbować zawsze można ;)]. 
+Drugim zbyt ambitnym pomysłem było pojawianie się tekstu wraz z przewijaniem strony... chyba troche za bardzo
+podobają mi sie dialogi z RPGów. Trzecim powodem porzucenia pierwotnego planu i chyba najcięższym do zrobienia (w moim odczuciu, bo w sumie się na tym nie znam heh)
+pomysłem było dodanie na samym końcu przycisku, który by świecił podczas nakierowywania na niego myszką  i z 
+ogromną ilością strzałek wskazujących w jego kierunku, który miał przekierowywać na taką fajną stronkę, ale po prostu podstawie Panu link hehe.
+ No więc dowaliłabym sobie roboty przynajmniej na tydzień jeżeli moje wymysły w ogóle sa możliwe :D.</p><br>
+<pre>
+aczkolwiek 
+muszę 
+przyznać 
+że
+nawet te podstawowe tagi są całkiem fajne i mimo braku możliwości zaprojektowania strony według moich wstępnych wyobrażeń to...
+<b>świetnie</b> się przy tym bawiłam 
+<i>mógłby Pan dawać wiecej podobnych zadań w przyszłości </i>
+</pre><br>
+<h2 style="color:pink; text-align:center;"> To niby nagłówek, ale nawiasem mówiąc to ostatecznym pomysłem na tę stronę jest brak pomysłu, więc
+poniżej wstawie rzeczy, których się nauczyłam z tych nieszczęsnych filmików, bo byłam zbyt leniwa, żeby zgłębić temat. </h2>
+<dl>
+<dt style="font-family:verdana;">Np. robienie list</dt>
+<dd>- a czemu nie?</dd>
+<dt style="font-family:courier;">albo bawienie się trzcionkami</dt>
+<dd>- czy coś w tym stylu, bo znam dwie</dd>
+</dl>
+
+<ul>
+<li style="font-size:150%;">zabwa</li>
+<li  style="font-size:200%;">rozmiarem</li>
+</ul>
+
+<ol>
+<li style="font-size:200%; font-family:courier;">no i skończyły mi się możliwości</li>
+<li style="font-size:50%; font-family:verdana;">przynajmniej jeżeli chodzi o listy</li>
+<ol>
+
+<h3 style="color:blue; text-align:center;">A teraz czas na tabelkę!</h3>
+
+<table style="width:100%;">
+<tr>
+<th>.</th>
+<th>Iga</th>
+<th>Hanna</th>
+<th>Kowal</th>
+<th>2b</th>
+</tr>
+<tr>
+<td>Kto umie robić tablke używając html?</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Ja</td>
+</tr>
+</table>
+<p style="background-color:yellow;"> Nadszedł czas na niedziałające przypiski i bezsensowne formularze :)</p>
+
+<form>
+<label for="login">Login: </label><br>
+<input type="text" id="login" name="login"><br>
+<label for="haslo">Hasło: </label><br>
+<input type="password" id="haslo" name="haslo"><br>
+
+<p><ins>Czy podobała się Panu strona?</ins></p><br>
+
+<input type="radio" id="t" name="Czy podobała się Panu strona?" value="t">
+<label for="t"> Tak, oczywiście. </label><br>
+<input type="radio" id="n" name="Czy podobała się Panu strona?" value="n">
+<label for="n"> Nie [szkoda, że nie mam możliwości sprawdzenia co Pan odpowie :')]. </label><br>
+
+<input type="checkbox" id="oswiadczenie" name="oswiadczenie" value="oswiadczenie">
+<label for="oswiadczenie"> Czy oświadcza Pan, że otwiera Pan poniższy link na własną odpowiedzialność?</label><br>
+
+<input type="submit" value="zaloguj">
+
+</form>
+
+<p style="color:grey;"> chciałabym móc zrobić tak, że nie byłoby możliwe wygenerowanie tego linku gdyby Pan wszystkiego nie zaznaczył, 
+ale jak Pan już wie moje możliwości są ograniczone :')</p>
+<h1 style="background:red;  text-align:center;" > Teraz czas na wisienkę na torcie.</h1>
+<p> Ale zanim to, dziekuję za przeczytanie strony [mam nadzieje, że Pan przeczytał a nie tylko zobaczył, czy działa, bo aktualnie jest 4 w nocy :)].
+Życzę Panu dobrego dnia nocy wieczorka czy poranka.</p>
+
+<a href="https://youtu.be/dQw4w9WgXcQ">A oto link</a>
+
+</body>
+</html>
